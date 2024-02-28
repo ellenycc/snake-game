@@ -5,9 +5,8 @@ I created this Retro Snake Game by following the Beginner JavaScript Project –
 
 ### Screenshot
 
-![](./assets/snake-game.png)
+![Snake Game Screenshot](.snake-game.png)
 
 ### Links
 
-- Solution URL: https://github.com/ellenycc/space-tourism-website-main/
-- Live Site URL: https://ellenycc.github.io/space-tourism-website-main/
+- Try it out here: https://snake-game-js-ellen.netlify.app
