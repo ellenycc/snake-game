@@ -5,7 +5,7 @@ I created this Retro Snake Game by following the Beginner JavaScript Project –
 
 ### Screenshot
 
-![Snake Game Screenshot](.snake-game.png)
+![Snake Game Screenshot](./snake-game.png)
 
 ### Links
 
